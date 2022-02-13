@@ -13,3 +13,4 @@
 * object feature : 0, 1로 변경하여 진행
 * Class feature : Eco, Eco Plus 분포 확인하여 하나로 묶기, 묶기 어려우면 One-Hot-Encoding 진행 (+Age)
 * 모델 앙상블 진행 ([사이킷런 앙상블](https://teddylee777.github.io/scikit-learn/scikit-learn-ensemble))
+** 참고 URL : https://www.kaggle.com/mehmetbicici/airline-passenger-satisfaction-eda-ml
