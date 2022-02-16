@@ -2,13 +2,14 @@
 ## Airline_passenger_Satisfaction
 ![image](https://user-images.githubusercontent.com/97036411/153756631-16de8319-b4d0-4534-9683-e55814d9b0e8.png)
 
-| No | MODEL | SCORE |
-| -- | ----- | ----- |
-| 1 | Random Forest | 0.921 |
-| 2 | Catboost | 0.934 | 
-| 2 | Random Forest | 0.908 |
-| 2 | LightGBM | 0.924 |
-| 3 | Catboost | 0.941 |
+| No | DATE | MODEL | SCORE | 
+| -- | ---- | ----- | ----- |
+| 1 | 2/9 | Random Forest | 0.921 |
+| 2 | 2/13 | Catboost | 0.934 | 
+| 2 | 2/13 | Random Forest | 0.908 |
+| 2 | 2/13 | LightGBM | 0.924 |
+| 3 | 2/16 | Catboost | 0.941 |
+| 3 | 2/16 | Catboost | 0.94 |
 
 
 3번째 시도에 해봐야 할 것 (~ 2/16)
