@@ -6,6 +6,10 @@
 | -- | ----- | ----- |
 | 1 | Random Forest | 0.921 |
 | 2 | Catboost | 0.934 | 
+| 2 | Random Forest | 0.908 |
+| 2 | LightGBM | 0.924 |
+| 3 | Catboost | 0.941 |
+
 
 3번째 시도에 해봐야 할 것 (~ 2/16)
 * score 0 처리 (최빈값 또는 다른 방향으로 진행)
